@@ -1,22 +1,41 @@
 # Capstone Project
 
-## Fake News Detection System
+## Overview
+This project is focused on developing machine learning models for predictive analytics.
 
-This project implements a fake news detection system that utilizes multiple machine learning models. The models are trained on a variety of features and their accuracies are compared to determine the most effective algorithm for detecting misinformation. The system aims to provide users with insights on how reliable different news sources are.
+## Machine Learning Models
+- Logistic Regression
+- Naive Bayes
+- Support Vector Machine (SVM)
+- Random Forest
+- Gradient Boosting
+- Neural Network
 
-## Features
-- Multiple machine learning models
-- Comparison of model accuracies
-- Insights on news reliability
-
-## Installation
-Instructions to set up the project locally can be added here.
+## Installation Instructions
+Follow these steps to set up the project:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rushman1417/Capstone-project.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Capstone-project
+   ```
+3. Install required packages:
+   ```bash
+   npm install
+   ```
 
 ## Usage
-Detailed usage instructions can be added here.
+Run the application by using the command below:
+```bash
+npm start
+```
+Access the application at: [http://localhost:3000](http://localhost:3000)
 
-## Contributing
-If you'd like to contribute, please fork the repository and create a pull request.
+## Additional Sections
+- Data Description
+- Model Evaluation
+- Future Work
 
-## License
-This project is licensed under the MIT License.
+Feel free to explore the project and contribute!
