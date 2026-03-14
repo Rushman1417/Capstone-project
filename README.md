@@ -1,52 +1,22 @@
 # Capstone Project
 
-## Project Structure
+## Fake News Detection System
 
-The project is organized into the following directories and files:
+This project implements a fake news detection system that utilizes multiple machine learning models. The models are trained on a variety of features and their accuracies are compared to determine the most effective algorithm for detecting misinformation. The system aims to provide users with insights on how reliable different news sources are.
 
-```
-Capstone-project/
-├── src/               # Source code
-│   ├── components/    # React components
-│   ├── utils/         # Utility functions
-│   └── App.js         # Main application file
-├── public/            # Public assets
-│   └── index.html     # Main HTML file
-├── package.json       # Project dependencies and scripts
-├── README.md          # Project documentation (this file)
-└── .gitignore         # Files to ignore in Git
-```
+## Features
+- Multiple machine learning models
+- Comparison of model accuracies
+- Insights on news reliability
 
-## Dependencies
-
-This project utilizes the following dependencies:
-- **React**: A JavaScript library for building user interfaces.
-- **React Router**: For routing within the application.
-- **Axios**: A promise-based HTTP client for making requests.
-
-To install these dependencies, run:
-```bash
-npm install
-```
+## Installation
+Instructions to set up the project locally can be added here.
 
 ## Usage
+Detailed usage instructions can be added here.
 
-To start the development server, use the following command:
-```bash
-npm start
-```
-
-This will launch the application in your default web browser. You can access it at `http://localhost:3000`.
-
-For building the application for production, run:
-```bash
-npm run build
-```
-
-This will generate optimized static files for deployment in the `build` directory.
-
-## Authors
-- Rushman1417
+## Contributing
+If you'd like to contribute, please fork the repository and create a pull request.
 
 ## License
 This project is licensed under the MIT License.
