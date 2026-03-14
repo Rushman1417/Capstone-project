@@ -1,14 +1,13 @@
 # Capstone Project
 
 ## Overview
-This project is focused on developing machine learning models for predictive analytics.
+This project is focused on developing machine learning models for predictive analytics on Fake news Detection, and then comparing the accuracy between the models.
 
 ## Machine Learning Models
 - Logistic Regression
 - Naive Bayes
 - Support Vector Machine (SVM)
 - Random Forest
-- Gradient Boosting
 - Neural Network
 
 ## Installation Instructions
